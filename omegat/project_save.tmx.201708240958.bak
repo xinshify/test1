@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.5.4" segtype="sentence" srclang="ZH-CN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>前要：广交会联络中心是为与会客商提供广交会及日常展览相关信息的统一服务平台，长期委托我司（广州信实翻译公司）进行部分外语人员的招聘及筛选。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Zoe" changedate="20170822T082124Z" creationid="Zoe" creationdate="20170822T082124Z">
+        <seg>Background: Canton Fair Contact Center provides integrated service platform for participating firms to access information related to Canton Fair and regular exhibitions, and we (Guangzhou Synergy Translation) is engaged in long term in staff recruitment and selection of certain languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>地点：广州市萝岗区南云二路62号新华汇</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Ethan" changedate="20170822T084405Z" creationid="Ethan" creationdate="20170822T084405Z">
+        <seg>location:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>现招聘2017年秋季广交会的西语，俄语，法语电话客服专员各2名（实习/兼职）</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Zoe" changedate="20170822T081732Z" creationid="Zoe" creationdate="20170822T081732Z">
+        <seg>Spanish, Russian and French Hotline Customer Service Officers for Canton Fair (Fall 2017) Wanted, 2 for Each Language (Internship/Part-time Job)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
